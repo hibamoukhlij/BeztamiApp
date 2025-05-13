@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602358449563",
+    "project_id": "beztami-92cfb",
+    "storage_bucket": "beztami-92cfb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602358449563:android:8f7cd79d602148d1418d3e",
+        "android_client_info": {
+          "package_name": "com.example.beztami"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwBA0rdLQq7X4I6w7-jcQaWBRxM-jHVak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
