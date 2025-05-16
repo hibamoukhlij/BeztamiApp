@@ -22,7 +22,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(fontFamily: 'Agrandir'),
-      home: LoginScreen(),
+      home: Splash(),
+
     );
   }
 }
@@ -42,8 +43,10 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return MyScaffold(
-      body: Center(
-
+      body: ListView(
+        children: [
+          Text("Hi heba 👋") ,
+        ],
       )
     );
   }

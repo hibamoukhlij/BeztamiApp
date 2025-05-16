@@ -1,3 +1,5 @@
+import 'package:beztami/screens/OnBoarding1.dart';
+import 'package:beztami/screens/welcomeScreen.dart';
 import 'package:flutter/material.dart';
 import 'main.dart';
 
@@ -19,7 +21,7 @@ class _SplashState extends State<Splash> {
      await Future.delayed(Duration(seconds: 2), () {});
      Navigator.pushReplacement(
        context,
-       MaterialPageRoute(builder: (context) => MyHomePage()),
+       MaterialPageRoute(builder: (context) => OnboardingScreen1()),
      );
    }
    @override
