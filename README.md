@@ -1,6 +1,6 @@
-# beztami
+# Beztami
 
-A new Flutter project.
+Beztami: Votre Portefeuille Virtuel is a mobile application conceived to empower individuals to take control of their financial lives. In a rapidly evolving economic landscape, the need for a user-friendly, secure, and comprehensive tool to manage finances is paramount. This application aims to meet that need by providing a range of features, from basic balance tracking to advanced financial planning, all within an intuitive and secure mobile environment.
 
 ![page 1](https://github.com/user-attachments/assets/4b54dcf5-2cd1-403c-b6d0-e3dcbe2684df)
 
@@ -8,15 +8,3 @@ A new Flutter project.
 
 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
