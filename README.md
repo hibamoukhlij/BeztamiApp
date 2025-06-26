@@ -1,3 +1,6 @@
+
+![Design file](https://github.com/user-attachments/assets/eb9d7444-310d-4150-9ae2-a9488018b4ed)
+
 # 💸 Beztami: Votre Portefeuille Virtuel
 
 Beztami is a simple, intuitive, and secure mobile app designed to help users take control of their personal finances. With a focus on ease of use and local relevance (built with Moroccan users in mind), Beztami enables expense tracking, budgeting, and financial awareness — all in one place.
